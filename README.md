@@ -1,5 +1,8 @@
-<p style="font-family: 'Bertha Melanie'; text-align: center; font-size: 40px"> Hello! :)</p>
-<p style="font-family: Bahnschrift; text-align: center; font-size: 20px"> Welcome to my GitHub page.</p>
+### Hello! ✨
+
+
+Welcome to my **GitHub** page.
+
 
 <hr>
 
