@@ -1,4 +1,6 @@
-### Hello! ✨
+<p style="text-align: center;">
+  Hello! ✨
+</p>
 
 
 Welcome to my **GitHub** page.
