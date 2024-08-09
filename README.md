@@ -1,7 +1,7 @@
-<p style="text-align: center;">
-  Hello! ✨
-
-Welcome to my **GitHub** page.
+<p align="center">
+  <h1 align="center">Hello! ✨</h1>
+  <h3 align="center">Welcome to my **GitHub** page.</h3>
+</p>
 
 <hr>
 
