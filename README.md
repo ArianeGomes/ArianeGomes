@@ -1,6 +1,4 @@
-![Welcome](https://github.com/user-attachments/assets/d64aa398-4d73-4ce5-b957-c63264fa7dbb)
-
-<br>
+![Welcome](https://github.com/user-attachments/assets/49906db2-52fa-4a04-b0e9-218cc842d203)
 
 ### Main Skills
 <a href="https://skillicons.dev">
