@@ -19,5 +19,5 @@
 <br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&color=gray)](https://www.linkedin.com/in/arianecgomes/)
   [![GoodReads](https://img.shields.io/badge/goodreads-369?style=flat-square&logo=goodreads&logoColor=white&color=gray)](https://www.goodreads.com/user/show/180473238-ariane-gomes)
-  [![Email](https://img.shields.io/badge/gmail-369?style=flat-square&logo=gmail&logoColor=white&color=gray)](mailto:arianecgomes@gmail.com) 
+  [![Email](https://img.shields.io/badge/gmail-369?style=flat-square&logo=gmail&logoColor=white&color=gray)](mailto:ariane@estudante.ufscar.br) 
 </div>
