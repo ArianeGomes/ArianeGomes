@@ -8,7 +8,7 @@
 <br><br>
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArianeGomes&theme=dracula&title=-Commits,-Issues,-Reviews&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArianeGomes&theme=dracula&title=-Commits,-Reviews&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><br>
 
